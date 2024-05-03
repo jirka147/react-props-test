@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>MAIN</h1>
+      <h1>TEST MENU</h1>
       <Hamburger isOpen={isOpen} setIsOpen={setIsOpen} />
       <Menu isOpen={isOpen} setIsOpen={setIsOpen} />
       <Footer/>
